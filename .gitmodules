@@ -1,3 +1,4 @@
 [submodule "superpowers"]
 	path = superpowers
-	url = https://github.com/obra/superpowers.git
+	url = https://github.com/spideystreet/superpowers.git
+	branch = feat/vibe-support
