@@ -1,0 +1,5 @@
+display_name = "Code Quality Reviewer"
+description = "Subagent for code quality review: checks for bugs, conventions, and best practices"
+safety = "safe"
+agent_type = "subagent"
+enabled_tools = ["grep", "read_file"]
