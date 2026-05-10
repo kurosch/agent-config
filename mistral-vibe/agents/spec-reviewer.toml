@@ -1,0 +1,5 @@
+display_name = "Spec Compliance Reviewer"
+description = "Subagent for spec compliance review: verifies implementation matches requirements"
+safety = "safe"
+agent_type = "subagent"
+enabled_tools = ["grep", "read_file"]
