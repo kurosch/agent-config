@@ -1,0 +1,5 @@
+display_name = "Spec Document Reviewer"
+description = "Subagent for reviewing specification documents"
+safety = "safe"
+agent_type = "subagent"
+enabled_tools = ["read_file"]

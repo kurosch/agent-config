@@ -2,4 +2,5 @@ display_name = "Implementer"
 description = "Subagent for implementing tasks with isolated context"
 safety = "safe"
 agent_type = "subagent"
-enabled_tools = ["grep", "read_file", "write_file", "bash"]
+enabled_tools = ["grep", "read_file", "write_file"]
+model="mistral-vibe-cli-fast"
